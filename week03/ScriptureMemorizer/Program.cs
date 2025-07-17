@@ -36,6 +36,6 @@ class Program
 
         Console.Clear();
         Console.WriteLine(scripture.GetDisplayText());
-        Console.WriteLine("\nAll words are hidden. Program has ended.");
+        Console.WriteLine("\nProgram has ended. Thanks for using this scripture memorizer");
     }
 }
